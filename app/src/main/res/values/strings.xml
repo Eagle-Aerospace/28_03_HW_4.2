@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HW_4_2</string>
+    <string name="header">Проездной документ</string>
+    <string name="train">Поезд №</string>
+    <string name="train1">Введите номер поезда</string>
+    <string name="departureTimeH">Дата и время отправления:</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="arrivalTimeH">Дата и время прибытия:</string>
+    <string name="seatH">Номер вагона и места:</string>
+    <string name="railwayCarriage">Вагон №</string>
+    <string name="seat">Место</string>
+    <string name="passengerH">Пасажир:</string>
+    <string name="passenger">Введите фамилию, имя, отчество</string>
+    <string name="priceH">Стоимость билета (руб.,коп.):</string>
+    <string name="price">Стоимость билета: рублей, копеек</string>
+    <string name="placeH">Место отправления и прибытия:</string>
+    <string name="place">Место отправления - место прибытия</string>
+    <string name="ticketInformation">Билет на поезд</string>
+    <string name="newOrderH">Создать новый заказ</string>
+
+</resources>
